@@ -1,0 +1,155 @@
+[
+  {
+    "id": 0,
+    "title":"Cured Meat",
+    "value": 5,
+    "amount": 1,
+    "stats": {
+      "attack":0,
+      "defense":0,
+      "health": 20,
+      "mana": 0
+    },
+    "description": "For when I get hungry. Restores health.",
+    "stackable": true,
+    "equippable": false,
+    "weapon": false,
+    "armor": false,
+    "usable": true,
+    "slug": "curedmeat"
+  },
+  {
+    "id": 1,
+    "title":"Map",
+    "value": 10,
+    "amount": 1,
+    "stats": {
+      "attack":0,
+      "defense":0,
+      "health": 0,
+      "mana": 0
+    },
+    "description": "Map of Lumen Mountains.",
+    "stackable": false,
+    "equippable": false,
+    "weapon": false,
+    "armor": false,
+    "usable": false,
+    "slug": "map"
+  },
+  {
+    "id": 2,
+    "title":"Reed's house key",
+    "value": 0,
+    "amount": 1,
+    "stats": {
+      "attack":0,
+      "defense":0,
+      "health": 0,
+      "mana": 0
+    },
+    "description": "Key for Reed's house.",
+    "stackable": false,
+    "equippable": false,
+    "weapon": false,
+    "armor": false,
+    "usable": false,
+    "slug": "key"
+  },
+  {
+    "id": 3,
+    "title":"Mana Potion",
+    "amount": 1,
+    "value": 0,
+    "stats": {
+      "attack":0,
+      "defense":0,
+      "health": 0,
+      "mana": 35
+    },
+    "description": "Restores Mana",
+    "stackable": true,
+    "equippable": false,
+    "weapon": false,
+    "armor": false,
+    "usable": true,
+    "slug": "manapotion"
+  },
+  {
+    "id": 4,
+    "title":"Ritual Dagger",
+    "amount": 1,
+    "value": 0,
+    "stats": {
+      "attack":100,
+      "defense":0,
+      "health": 0,
+      "mana": 35
+    },
+    "description": "Ritual Dagger",
+    "stackable": true,
+    "equippable": true,
+    "weapon": true,
+    "armor": false,
+    "usable": false,
+    "slug": "ritualdagger"
+  },
+  {
+    "id": 5,
+    "title":"Tikari",
+    "amount": 1,
+    "value": 0,
+    "stats": {
+      "attack":10,
+      "defense":0,
+      "health": 0,
+      "mana": 35
+    },
+    "description": "Also usable in kitchen.",
+    "stackable": true,
+    "equippable": true,
+    "weapon": true,
+    "armor": false,
+    "usable": false,
+    "slug": "jesusdagu"
+  },
+  {
+  "id": 6,
+  "title":"Leather Armor",
+  "amount": 1,
+  "value": 0,
+  "stats": {
+    "attack":0,
+    "defense":8,
+    "health": 0,
+    "mana": 0
+  },
+  "description": "Fuggin leather armor.",
+  "stackable": true,
+  "equippable": true,
+  "weapon": false,
+  "armor": true,
+  "usable": false,
+  "slug": "leatherarmor"
+},
+{
+  "id": 7,
+  "title":"Hunter Tunica",
+  "amount": 1,
+  "value": 0,
+  "stats": {
+    "attack":0,
+    "defense":7,
+    "health": 0,
+    "mana": 0
+  },
+  "description": "Protects from bear attacks.",
+  "stackable": true,
+  "equippable": true,
+  "weapon": false,
+  "armor": true,
+  "usable": false,
+  "slug": "huntertunica"
+}
+
+]

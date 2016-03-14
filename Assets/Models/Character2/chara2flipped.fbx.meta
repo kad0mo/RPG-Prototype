@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 36aa1379e833fe240a3e124d9b7b5411
+timeCreated: 1447184243
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm01.L
+    100002: Arm01.R
+    100004: Arm02.L
+    100006: Arm02.R
+    100008: Armature
+    100010: CenterF01.L
+    100012: CenterF01.R
+    100014: CenterF02.L
+    100016: CenterF02.R
+    100018: //RootNode
+    100020: Chest
+    100022: Cube
+    100024: Cube.001
+    100026: Feet01.L
+    100028: Feet01.R
+    100030: Feet02.L
+    100032: Feet02.R
+    100034: FootRoll.L
+    100036: FootRoll.R
+    100038: FrontF01.L
+    100040: FrontF01.R
+    100042: FrontF02.L
+    100044: FrontF02.R
+    100046: Head
+    100048: Index02.L
+    100050: IndexF01.L
+    100052: IndexF01.R
+    100054: IndexF02.R
+    100056: Leg01.L
+    100058: Leg01.R
+    100060: Leg02.L
+    100062: Leg02.R
+    100064: LegControl.L
+    100066: LegControl.R
+    100068: LegIK.L
+    100070: LegIK.R
+    100072: Neck
+    100074: Palm.L
+    100076: Palm.R
+    100078: PinkyF01.L
+    100080: PinkyF01.R
+    100082: PinkyF02.L
+    100084: PinkyF02.R
+    100086: Poletarget.L
+    100088: Poletarget.R
+    100090: Thumb01.L
+    100092: Thumb01.R
+    100094: Thumb02.L
+    100096: Thumb02.R
+    100098: ToesControl.L
+    100100: ToesControl.R
+    100102: Torso
+    400000: Arm01.L
+    400002: Arm01.R
+    400004: Arm02.L
+    400006: Arm02.R
+    400008: Armature
+    400010: CenterF01.L
+    400012: CenterF01.R
+    400014: CenterF02.L
+    400016: CenterF02.R
+    400018: //RootNode
+    400020: Chest
+    400022: Cube
+    400024: Cube.001
+    400026: Feet01.L
+    400028: Feet01.R
+    400030: Feet02.L
+    400032: Feet02.R
+    400034: FootRoll.L
+    400036: FootRoll.R
+    400038: FrontF01.L
+    400040: FrontF01.R
+    400042: FrontF02.L
+    400044: FrontF02.R
+    400046: Head
+    400048: Index02.L
+    400050: IndexF01.L
+    400052: IndexF01.R
+    400054: IndexF02.R
+    400056: Leg01.L
+    400058: Leg01.R
+    400060: Leg02.L
+    400062: Leg02.R
+    400064: LegControl.L
+    400066: LegControl.R
+    400068: LegIK.L
+    400070: LegIK.R
+    400072: Neck
+    400074: Palm.L
+    400076: Palm.R
+    400078: PinkyF01.L
+    400080: PinkyF01.R
+    400082: PinkyF02.L
+    400084: PinkyF02.R
+    400086: Poletarget.L
+    400088: Poletarget.R
+    400090: Thumb01.L
+    400092: Thumb01.R
+    400094: Thumb02.L
+    400096: Thumb02.R
+    400098: ToesControl.L
+    400100: ToesControl.R
+    400102: Torso
+    4300000: Cube
+    4300002: Cube.001
+    7400000: Armature|Idle
+    7400002: Armature|Run
+    7400004: Cube|Idle
+    7400006: Cube.001|Run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+    13700002: Cube.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

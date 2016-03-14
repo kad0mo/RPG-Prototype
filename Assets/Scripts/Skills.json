@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "title":"Fiamette",
+    "value": 5,
+    "stats": {
+
+      "damage": 30,
+      "mana": 22,
+      "ap": 4
+    },
+    "description": "Basic fire spell. Attack single enemy.",
+    "magic": true,
+    "slug": "fiamette"
+  },
+  {
+    "id": 1,
+    "title":"Rapid Slash",
+    "value": 10,
+    "stats": {
+
+      "damage": 8,
+      "mana": 0,
+      "ap": 2
+    },
+    "description": "Attack single enemy with your weapon multiple times.",
+    "magic": false,
+    "slug": "map"
+  },
+  {
+    "id": 2,
+    "title":"Sleepy Essence",
+    "value": 0,
+    "stats": {
+
+      "damage": 0,
+      "mana": 0,
+      "ap": 2
+    },
+    "description": "Makes almost any living creature go down. At least for a moment.",
+    "magic": false,
+    "slug": "sleepyessence"
+  }
+]

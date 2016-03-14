@@ -1,0 +1,48 @@
+[
+  {
+    "id": 0,
+    "name":"Dusk",
+    "level": 5,
+    "exp": 0,
+    "stats": {
+      "hp": 100,
+      "curhp": 80,
+      "mana": 80,
+      "curmana":50,
+      "str": 8,
+      "mag": 10,
+      "spd": 7,
+      "attack":5
+    },
+    "equip": {
+      "weapon": 4,
+      "armor":6,
+      "clothes":4,
+      "ring":4
+    },
+    "slug": "dusk"
+  },
+  {
+    "id": 1,
+    "name":"Halla",
+    "level":6,
+    "exp": 0,
+    "stats": {
+      "hp": 100,
+      "curhp":30,
+      "mana": 50,
+      "curmana":20,
+      "str": 7,
+      "mag": 2,
+      "spd": 20,
+      "attack":5
+    },
+    "equip": {
+      "weapon": 5,
+      "armor":7,
+      "clothes":4,
+      "ring":4
+    },
+    "slug": "halla"
+  }
+]
